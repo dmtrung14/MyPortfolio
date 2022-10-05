@@ -225,17 +225,17 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Achievements And Certifications 🏆 "),
+  title: emoji("Awards 🏆 "),
   subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+    "Me being an Olympiad Champ!",
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Vietnam National Mathematical Olympiad",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "Second Prize, top 30 students invited to the Final Round of Vietnam Team Selection Test for IMO 2021 and IMO 2022",
+      image: require("./assets/images/vietnamEmblem.png"),
+      imageAlt: "Ministry of Education and Training Logo",
       footerLink: [
         {
           name: "Certification",
@@ -252,10 +252,10 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "International Junior Science Olympiad",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+        "One of six students represented Vietnam at IJSO 2019 in Doha, Qatar. Silver Medalist. Ovr Ranking: 39/409",
+      image: require("./assets/images/ijso2019.png"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
