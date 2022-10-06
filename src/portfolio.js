@@ -254,9 +254,9 @@ const achievementSection = {
     {
       title: "International Junior Science Olympiad",
       subtitle:
-        "One of six students represented Vietnam at IJSO 2019 in Doha, Qatar. Silver Medalist. Ovr Ranking: 39/409",
+        "One of six students represented Vietnam at IJSO 2019 in Doha, Qatar. Silver Medalist. Overall ranking: 39/409",
       image: require("./assets/images/ijso2019.png"),
-      imageAlt: "Google Assistant Action Logo",
+      imageAlt: "IJSO 2019 Logo",
       footerLink: [
         {
           name: "View Google Assistant Action",
