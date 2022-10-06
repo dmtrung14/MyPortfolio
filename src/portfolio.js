@@ -115,12 +115,12 @@ const educationInfo = {
     {
       schoolName: "Univeristy of Massachusetts-Amherst",
       logo: require("./assets/images/UMassLogo.png"),
-      subHeader: "Master of Science in Computer Science",
+      subHeader: "BS in Computer Science",
       duration: "September 2022 - Expected May 2025",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "UMass CTF Team, OSINT and Cryptography solver",
+        "UMass Data Science Club Executive Board"
       ]
     },
   ]
