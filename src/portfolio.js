@@ -203,6 +203,17 @@ const bigProjects = {
           url: "http://cool-playbacksync-chat.herokuapp.com/"
         }
       ]
+    },
+    {
+      image: require("./assets/images/mathinspiration.png"),
+      projectName: "Math Inspiration",
+      projectDesc: "Math-Coding Learning platform for Vietnamese students",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://cool-playbacksync-chat.herokuapp.com/"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
