@@ -276,6 +276,12 @@ const blogSection = {
       title: "Generalizing Geometrical Probability Problem from Putnam 1992 A6",
       description:
         "The notoriously difficult problem could be solved in the perspective of an 8th grader. Yet, how can we apply truly complex mathematics to push it to the limit?"
+    },
+    {
+      url: "https://lab.krastanov.org/independentstudy/",
+      title: "A Zoo of quantum Error Correcting Code",
+      description:
+        "Upcoming Spring 2023"
     }
   ],
   display: true // Set false to hide this section, defaults to true
