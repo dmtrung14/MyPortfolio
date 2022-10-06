@@ -260,22 +260,22 @@ const achievementSection = {
 // Blogs Section
 
 const blogSection = {
-  title: "Blogs",
+  title: "Research Papers",
   subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+    "I am also a researcher with a passion for Math and Physics!",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://drive.google.com/file/d/1ygeG9s8DKiEdjaOWc3B_rVsh9DClVl5s/view?usp=sharing",
+      title: "Quantum Shannon Theory in Secure Transmission Scheme",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "Nobel Prize winning topic in a Nutshell. How can we defy the power of future quantum computing? And how can we harness its power to derive the strongest key-distribution scheme ever?"
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Worst?",
+      url: "https://drive.google.com/file/d/1ygeG9s8DKiEdjaOWc3B_rVsh9DClVl5s/view?usp=sharing",
+      title: "Generalizing Geometrical Probability Problem from Putnam 1992 A6",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "The notoriously difficult problem could be solved in the perspective of an 8th grader. Yet, how can we apply truly complex mathematics to push it to the limit?"
     }
   ],
   display: true // Set false to hide this section, defaults to true
