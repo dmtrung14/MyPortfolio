@@ -113,7 +113,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Univeristy of Massachusetts-Amhesrt",
+      schoolName: "Univeristy of Massachusetts-Amherst",
       logo: require("./assets/images/UMassLogo.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2022 - Expected May 2025",
