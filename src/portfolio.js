@@ -232,7 +232,7 @@ const achievementSection = {
       title: "Vietnam National Mathematical Olympiad",
       subtitle:
         "Second Prize, top 30 students invited to the Final Round of Vietnam Team Selection Test for IMO 2021 and IMO 2022",
-      image: require("./assets/images/vietnamEmblem.png"),
+      image: require("./assets/images/imoLogo.png"),
       imageAlt: "Ministry of Education and Training Logo",
       footerLink: [
         {
