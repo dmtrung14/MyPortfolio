@@ -211,7 +211,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://cool-playbacksync-chat.herokuapp.com/"
+          url: "http://dmtrung14.github.io/mathinspiration"
         }
       ]
     }
