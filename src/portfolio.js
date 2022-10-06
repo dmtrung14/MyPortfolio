@@ -286,7 +286,7 @@ const blogSection = {
     },
     {
       url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
+      title: "Why REACT is The Worst?",
       description:
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
