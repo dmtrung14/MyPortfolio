@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ab32bf8.chunk.css",
+    "main.js": "/static/js/main.cb4dd737.chunk.js",
+    "main.js.map": "/static/js/main.cb4dd737.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f1e366e1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f1e366e1.js.map",
+    "static/js/2.4aa3719c.chunk.js": "/static/js/2.4aa3719c.chunk.js",
+    "static/js/2.4aa3719c.chunk.js.map": "/static/js/2.4aa3719c.chunk.js.map",
+    "static/css/3.c07292d6.chunk.css": "/static/css/3.c07292d6.chunk.css",
+    "static/js/3.a85befba.chunk.js": "/static/js/3.a85befba.chunk.js",
+    "static/js/3.a85befba.chunk.js.map": "/static/js/3.a85befba.chunk.js.map",
+    "static/css/4.a96ca5e5.chunk.css": "/static/css/4.a96ca5e5.chunk.css",
+    "static/js/4.0513155a.chunk.js": "/static/js/4.0513155a.chunk.js",
+    "static/js/4.0513155a.chunk.js.map": "/static/js/4.0513155a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.562dd571f090b3c70aafb8b3530d599a.js": "/precache-manifest.562dd571f090b3c70aafb8b3530d599a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.c07292d6.chunk.css.map": "/static/css/3.c07292d6.chunk.css.map",
+    "static/css/4.a96ca5e5.chunk.css.map": "/static/css/4.a96ca5e5.chunk.css.map",
+    "static/css/main.3ab32bf8.chunk.css.map": "/static/css/main.3ab32bf8.chunk.css.map",
+    "static/js/2.4aa3719c.chunk.js.LICENSE.txt": "/static/js/2.4aa3719c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/UMassLogo.png": "/static/media/UMassLogo.6378db98.png",
+    "static/media/bigbrothers.png": "/static/media/bigbrothers.04309388.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/fptLogo.png": "/static/media/fptLogo.0da3f593.png",
+    "static/media/ijso2019.png": "/static/media/ijso2019.54ff7681.png",
+    "static/media/imoLogo.png": "/static/media/imoLogo.2eab74b1.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/mathinspiration.png": "/static/media/mathinspiration.48ae19c3.png",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1e366e1.js",
+    "static/js/2.4aa3719c.chunk.js",
+    "static/css/main.3ab32bf8.chunk.css",
+    "static/js/main.cb4dd737.chunk.js"
+  ]
+}
