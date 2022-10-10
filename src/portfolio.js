@@ -237,16 +237,12 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1CcjSXxGRPnWg4zXwahFCQj9MAwT-Mano/view?usp=sharing"
         },
         {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+          name: "Odon Vallet Award",
+          url: "https://drive.google.com/file/d/1MlS145JLSMrlD_zJFnZz_vX7JrI8uDuv/view?usp=sharing"
         },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
       ]
     },
     {
@@ -257,8 +253,8 @@ const achievementSection = {
       imageAlt: "IJSO 2019 Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "View Certificate",
+          url: "https://drive.google.com/file/d/1GIbkORew4674VdlPc7plYOrwd4YptdFm/view?usp=sharing"
         }
       ]
     },
