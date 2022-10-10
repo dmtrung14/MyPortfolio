@@ -184,11 +184,11 @@ const bigProjects = {
     {
       image: require("./assets/images/bigbrothers.png"),
       projectName: "Big Brothers Network",
-      projectDesc: "Interact with helpful Facebook posts to earn tokens",
+      projectDesc: "Interact with helpful and interesting Facebook posts to earn tokens",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://github.com/dmtrung14/playback-sync-main"
+          url: "https://github.com/dmtrung14/StatsImprover-network"
         }
         //  you can add extra buttons here.
       ]
