@@ -188,7 +188,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: ""
+          url: "https://github.com/dmtrung14/playback-sync-main"
         }
         //  you can add extra buttons here.
       ]
@@ -233,7 +233,7 @@ const achievementSection = {
       subtitle:
         "Second Prize, top 30 students invited to the Final Round of Vietnam Team Selection Test for IMO 2021 and IMO 2022",
       image: require("./assets/images/imoLogo.png"),
-      imageAlt: "Ministry of Education and Training Logo",
+      imageAlt: "IMO Logo",
       footerLink: [
         {
           name: "Certification",
