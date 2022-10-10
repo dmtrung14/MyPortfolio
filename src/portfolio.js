@@ -133,7 +133,7 @@ const techStack = {
   experience: [
     {
       Stack: "Programming", //Insert stack or technology you have experience in
-      progressPercentage: "80%" //Insert relative proficiency in percentage
+      progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Mathematics",
@@ -184,7 +184,7 @@ const bigProjects = {
     {
       image: require("./assets/images/bigbrothers.png"),
       projectName: "Big Brothers Network",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "Interact with helpful Facebook posts to earn tokens",
       footerLink: [
         {
           name: "Visit Website",
@@ -276,7 +276,7 @@ const blogSection = {
       url: "https://drive.google.com/file/d/1f8_K2lTnauq4Ahz4YuLfazfaIqmy8QZO/view?usp=sharing",
       title: "Quantum Shannon Theory in Secure Transmission Scheme",
       description:
-        "Nobel Prize winning topic in a Nutshell. How can we defy the power of future quantum computing? And how can we harness its power to derive the strongest key-distribution scheme ever?"
+        "Nobel Prize winning topic in a Nutshell. How can we defy the capability of future quantum computing? And how can we harness its power to derive the strongest key-distribution scheme ever?"
     },
     {
       url: "https://drive.google.com/file/d/1ygeG9s8DKiEdjaOWc3B_rVsh9DClVl5s/view?usp=sharing",
