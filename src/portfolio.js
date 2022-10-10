@@ -23,10 +23,10 @@ const greeting = {
   username: "Trung Dang",
   title: "Howdy, it's Trung Dang 🚀",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 who happens to be a Mathematician and Pentester. I have developing experience in Python, Java, NodeJS, and I also love Algorithms and CTFs so much!"
+    "A passionate Software Developer 🚀 who happens to be a Mathematician and Pentester. I have developing experience in Python, Java, NodeJS, and I also love Algorithms and CTFs so much!"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1plDQmD1KAQO0Cl7muNMiR3SVoZ-eRoOX/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -49,7 +49,7 @@ const skillsSection = {
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive webs that enhance user's web experience"
+      "⚡ Protect the safety and integrity of the web environment"
     ),
     emoji("⚡ Apply progressive APIs to implement groundbreaking ideas "),
     emoji(
@@ -133,11 +133,11 @@ const techStack = {
   experience: [
     {
       Stack: "Programming", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      progressPercentage: "80%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Mathematics",
-      progressPercentage: "85%"
+      progressPercentage: "95%"
     },
     {
       Stack: "Information Security",
@@ -236,7 +236,7 @@ const achievementSection = {
       imageAlt: "IMO Logo",
       footerLink: [
         {
-          name: "Certification",
+          name: "Certificate",
           url: "https://drive.google.com/file/d/1CcjSXxGRPnWg4zXwahFCQj9MAwT-Mano/view?usp=sharing"
         },
         {
@@ -253,7 +253,7 @@ const achievementSection = {
       imageAlt: "IJSO 2019 Logo",
       footerLink: [
         {
-          name: "View Certificate",
+          name: "Certificate",
           url: "https://drive.google.com/file/d/1GIbkORew4674VdlPc7plYOrwd4YptdFm/view?usp=sharing"
         }
       ]
@@ -329,7 +329,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Happy to discuss any renovative idea!",
+    "Happy to discuss any innovative idea!",
   number: "+1-413-472-6360",
   email_address: "trungdangminh14012004@gmail.com"
 };
