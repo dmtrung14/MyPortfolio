@@ -187,7 +187,7 @@ const bigProjects = {
       projectDesc: "Interact with helpful and interesting Facebook posts to earn tokens",
       footerLink: [
         {
-          name: "Visit Website",
+          name: "Visit Repository",
           url: "https://github.com/dmtrung14/StatsImprover-network"
         }
         //  you can add extra buttons here.
@@ -201,6 +201,10 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "http://cool-playbacksync-chat.herokuapp.com/"
+        },
+        {
+          name: "Visit Repository",
+          url: "https://github.com/dmtrung14/playback-sync-main"
         }
       ]
     },
@@ -212,6 +216,10 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "http://dmtrung14.github.io/mathinspiration"
+        },
+        {
+          name: "Visit Repository",
+          url: "https://github.com/dmtrung14/mathinspiration"
         }
       ]
     }
