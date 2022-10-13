@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Software Developer 🚀 who happens to be a Mathematician and Pentester. I have developing experience in Python, Java, NodeJS, and I also love Algorithms and CTFs so much!"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1plDQmD1KAQO0Cl7muNMiR3SVoZ-eRoOX/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1UP5nFgeNDaCbZY4dIiZ2Z_5T6BzXywv4/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -188,7 +188,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Repository",
-          url: "https://github.com/dmtrung14/StatsImprover-network"
+          url: "https://github.com/nhdtxdy/Stats-Improver-Network"
         }
         //  you can add extra buttons here.
       ]
